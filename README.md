@@ -1,4 +1,4 @@
-# Heart Disease Prediction using AdaBoost.
+# Heart Disease Prediction using AdaBoost & RandomForest
 
 **Author**: SHAILESH DHAMA
 
@@ -18,20 +18,36 @@ Here is where you state the business problem you were trying to solve
     4.Math
     5.Matplotlib
 
-## Methods
-- descriptive analysis
-- choices made
-- key relevant findings from exploritory data analysis for mod 1, will be more involved in future mod
+## STEPS :
+
+    - Data preprocessing and cleaning
+    - Data Visualisation
+    - Random Forest Classification
+    - AdaBoost Classification
+    - Accuracy with different test sizes.
 
 ## RESULTS :
 
-#### Visual 1
-![graph1](./images/visual1.png)
-> Sentence about visualization.
+#### Data Visualisation
+![graph1](./HEART1.png)
+> Histographs of Data Attributes
 
-#### Visual 2
-![graph2](./images/visual2.png)
-> Sentence about visualization.
+![graph2](./HEART2.png)
+> Data Description
+
+#### Random Forest Classification
+
+![graph3](./HEART3.png)
+![graph4](./HEART4.png)
+![graph5](./HEART5.png)
+![graph6](./HEART6.png)
+![graph7](./HEART7.png)
+> Random Forest FacetGrid Plots
+
+#### AdaBoost Classification
+
+![graph8](./HEART8.PNG)
+> Accuracy of AdaBoost Modelling.
 
 ### For further information
 
