@@ -2,11 +2,9 @@
 
 **Author**: SHAILESH DHAMA
 
-The contents of this repository detail an analysis of the module one project. This analysis is detailed in hopes of making the work accessible and replicable.
-
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+To predict heart disease using Classification methods.
 
 ### Dataset : https://www.kaggle.com/ronitf/heart-disease-uci
 
